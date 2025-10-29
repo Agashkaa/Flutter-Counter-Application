@@ -1,4 +1,4 @@
-# projects1
+# Flutter - Counter Application (Basic)
 
 A new Flutter project.
 
